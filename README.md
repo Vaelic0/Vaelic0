@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Alfonso 👋</h1>
-<h3 align="center">Ingeniero de Software | Sistemas Distribuidos</h3>
+<h3 align="center">Firmware Engineer @ Amazon (Ring) | C/C++ · Sistemas Embebidos</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alfonso-jes%C3%BAs-pi%C3%B1era-herrera-4a7001210">
@@ -10,11 +10,12 @@
 ---
 
 ### 🎓 Sobre Mí
-Me llamo Alfonso, soy un apasionado de los sistemas de alto rendimiento y la computación distribuida.
+Ingeniero de software especializado en **C/C++** e ingeniería de bajo nivel para sistemas embebidos y de alto rendimiento.
 
-- 🚀 Actualmente cursando el **Máster en Ingeniería Informática** en la **ETSIIT-UGR**.
-- 🛠️ Especializado en **C++** y desarrollo de sistemas.
-- 📍 Granada, España.
+- 🔧 **Firmware Engineer** en **Amazon — Ring**, trabajando sobre plataformas ARM en tiempo real.
+- 🛰️ Experiencia previa en **GNSS** (Safran Navigation & Timing) y **DDS** (RTI).
+- 🎓 **Máster en Ingeniería Informática** por la **ETSIIT-UGR**.
+- 📍 Madrid, España.
 
 ---
 
@@ -31,8 +32,8 @@ Me llamo Alfonso, soy un apasionado de los sistemas de alto rendimiento y la com
       <br>C++
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br>Java
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
